@@ -1,8 +1,19 @@
-# Привет, я Матвей! 👋
+# Welcome to my profile
 
-🔹 Мне 19 лет, я занимаюсь разработкой программного обеспечения и создаю проекты на Python, Node.js и других языках.  
-💡 Интересуюсь созданием ботов для Telegram и разработкой различных приложений.  
-🌱 Сейчас изучаю Python и работаю над несколькими интересными проектами.
+## About Me
+Hello everyone! I'm Matvey, also known as podmefom.
 
-## 📫 Связаться со мной:
-- [Telegram](https://t.me/ebetEBY)
+I'm currently 19 years old and passionate about software development. I'm diving deep into Python and Node.js and building a variety of interesting projects. In my free time, I enjoy gaming and working on automation-related projects.
+
+## Stack
+- **Python**
+- **Node.js**
+- **JavaScript**
+- **C++** (just starting)
+
+## My Goals
+- Deepen my understanding of Python and Node.js.
+- Work on creating complex applications and improve my skills further.
+
+## 📫 Connect with me:
+- [Telegram](https://t.me/ebetEBY) 
