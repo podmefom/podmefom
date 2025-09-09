@@ -16,4 +16,4 @@ I'm currently 19 years old and passionate about software development. I'm diving
 - Work on creating complex applications and improve my skills further.
 
 ## 📫 Connect with me:
-- [Telegram](https://t.me/ebetEBY) 
+- [Telegram](https://t.me/podamfetam1nom) 
