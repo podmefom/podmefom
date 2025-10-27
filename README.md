@@ -1,4 +1,4 @@
-/ENG
+#ENG 
 
 # Hi there! I'm Matvey 👋
 
@@ -22,7 +22,7 @@ I believe coding should be fun too. Whether it’s automating a small task, expl
 - Telegram: [@W3bDevelop](https://t.me/W3bDevelop)
 
 
-/RUS
+#RUS
 
 # Привет! Я Матвей 👋
 
