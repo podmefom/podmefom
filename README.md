@@ -1,4 +1,4 @@
-#ENG 
+**ENG**
 
 # Hi there! I'm Matvey 👋
 
@@ -15,14 +15,12 @@ Currently, I’m a 2nd-year student studying **Software for Computer Systems (П
 ## My Goals
 I aim to become a top-tier React and Vue developer, mastering frontend to a professional level. Beyond that, I want to grow into a full-stack developer capable of contributing to ambitious, high-quality projects in leading companies. My ultimate goal is to combine creativity, technical skills, and teamwork to make software that delights users and solves real problems. Every challenge I take is an opportunity to learn, improve, and become a developer others want on their team.
 
-## Fun Fact
-I believe coding should be fun too. Whether it’s automating a small task, exploring new libraries, or building a personal project from scratch, I always try to keep curiosity and excitement alive.
-
 ## 📫 Connect with Me
 - Telegram: [@W3bDevelop](https://t.me/W3bDevelop)
 
 
-#RUS
+
+**RUS**
 
 # Привет! Я Матвей 👋
 
@@ -38,9 +36,6 @@ I believe coding should be fun too. Whether it’s automating a small task, expl
 
 ## Мои цели
 Я хочу стать топовым разработчиком на React и Vue, довести фронтенд до профессионального уровня. Дальше моя цель — вырасти в фулстэк-разработчика, способного работать над амбициозными, качественными проектами в ведущих компаниях. В конечном счете хочу объединять креатив, технические навыки и командную работу, создавая софт, который радует пользователей и решает реальные задачи. Каждая новая задача для меня — шанс учиться, развиваться и становиться разработчиком, которого хотят видеть в команде.
-
-## Интересный факт
-Я считаю, что кодинг должен быть интересным. Будь то автоматизация небольшой задачи, изучение новых библиотек или создание проекта с нуля, я всегда стараюсь сохранять любопытство и азарт.
 
 ## 📫 Связаться со мной
 - Telegram: [@W3bDevelop](https://t.me/W3bDevelop)
