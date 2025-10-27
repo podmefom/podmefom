@@ -1,34 +1,46 @@
-# Welcome to my Profile
+/ENG
+
+# Hi there! I'm Matvey 👋
 
 ## About Me
-Hello! I'm Matvey, also known as podmefom.  
-I'm 20 years old and deeply passionate about software development. I love tackling challenging problems, building impactful projects, and constantly learning new technologies. Currently, I’m diving into Python and Node.js for backend development while mastering React and Vue3 on the frontend. Outside of coding, I enjoy gaming, automation, and exploring innovative solutions.
+I'm 20 years old and completely obsessed with coding. I love solving tricky problems, experimenting with new technologies, and building projects that actually matter. Software development isn’t just a job for me—it’s a way to create, explore, and constantly challenge myself.
 
-## Stack
+Currently, I’m a 2nd-year student studying **Software for Computer Systems (ПОКС)** at university, while diving deep into Python and Node.js for backend development and leveling up my skills in React and Vue3 for the frontend. I also enjoy automating repetitive tasks, gaming, and thinking of smarter ways to do things.
+
+## My Stack
 - **Frontend:** React (low level), Vue3 (low level), HTML, CSS, JS (middle level)  
 - **Backend:** Python, Node.js  
-- **Tools:** Git, VS Code
+- **Tools & Workflow:** Git, VS Code, problem-solving mindset
 
 ## My Goals
-My goal is to become an exceptional React and Vue developer, constantly improving my skills to grow into a full-stack developer capable of creating complex, high-quality applications. I aspire to contribute to innovative projects in top companies, collaborate with talented teams, and make a positive impact through technology. I’m driven, enthusiastic, and always ready to learn and take on new challenges.
+I aim to become a top-tier React and Vue developer, mastering frontend to a professional level. Beyond that, I want to grow into a full-stack developer capable of contributing to ambitious, high-quality projects in leading companies. My ultimate goal is to combine creativity, technical skills, and teamwork to make software that delights users and solves real problems. Every challenge I take is an opportunity to learn, improve, and become a developer others want on their team.
+
+## Fun Fact
+I believe coding should be fun too. Whether it’s automating a small task, exploring new libraries, or building a personal project from scratch, I always try to keep curiosity and excitement alive.
 
 ## 📫 Connect with Me
 - Telegram: [@W3bDevelop](https://t.me/W3bDevelop)
 
 
-# Добро пожаловать в мой профиль
+/RUS
+
+# Привет! Я Матвей 👋
 
 ## О себе
-Привет! Меня зовут Матвей, известный как podmefom.  
-Мне 20 лет, и я полностью погружен в разработку. Люблю решать сложные задачи, создавать полезные проекты и постоянно изучать новые технологии. Сейчас активно изучаю Python и Node.js для бэкенда и совершенствую навыки работы с React и Vue3 на фронтенде. В свободное время увлекаюсь играми, автоматизацией и поиском инновационных решений.
+Мне 20 лет, и я полностью погружен в разработку. Люблю решать сложные задачи, пробовать новые технологии и создавать проекты, которые реально приносят пользу. Для меня разработка — не просто работа, это способ создавать, исследовать и постоянно развиваться.
 
-## Стек
+Сейчас я учусь на **2 курсе направления «Программное обеспечение компьютерных систем (ПОКС)»** в университете. Параллельно изучаю Python и Node.js для бэкенда и совершенствую навыки работы с React и Vue3 на фронтенде. Также увлекаюсь автоматизацией задач, играми и поиском более умных способов решения проблем.
+
+## Мой стек
 - **Фронтенд:** React (low level), Vue3 (low level), HTML, CSS, JS (middle level)  
 - **Бэкенд:** Python, Node.js  
-- **Инструменты:** Git, VS Code
+- **Инструменты:** Git, VS Code, подход к решению проблем
 
-## Цели
-Моя цель — стать выдающимся разработчиком на React и Vue, постоянно развивая навыки и становясь фулстэк-разработчиком, способным создавать сложные и качественные приложения. Я хочу участвовать в инновационных проектах в крутых компаниях, работать в талантливых командах и приносить пользу с помощью технологий. Я целеустремленный, энергичный и всегда готов к новым вызовам и обучению.
+## Мои цели
+Я хочу стать топовым разработчиком на React и Vue, довести фронтенд до профессионального уровня. Дальше моя цель — вырасти в фулстэк-разработчика, способного работать над амбициозными, качественными проектами в ведущих компаниях. В конечном счете хочу объединять креатив, технические навыки и командную работу, создавая софт, который радует пользователей и решает реальные задачи. Каждая новая задача для меня — шанс учиться, развиваться и становиться разработчиком, которого хотят видеть в команде.
+
+## Интересный факт
+Я считаю, что кодинг должен быть интересным. Будь то автоматизация небольшой задачи, изучение новых библиотек или создание проекта с нуля, я всегда стараюсь сохранять любопытство и азарт.
 
 ## 📫 Связаться со мной
 - Telegram: [@W3bDevelop](https://t.me/W3bDevelop)
