@@ -2,7 +2,7 @@
 
 ## About Me
 Hello! I'm Matvey, also known as podmefom.  
-I'm 20 years old and passionate about software development. I enjoy solving challenging problems and building projects that make life easier. Currently, I'm diving deep into Python and Node.js, exploring backend development, and experimenting with frontend frameworks like React and Vue3. In my free time, I enjoy gaming, automation projects, and learning new technologies.
+I'm 20 years old and deeply passionate about software development. I love tackling challenging problems, building impactful projects, and constantly learning new technologies. Currently, I’m diving into Python and Node.js for backend development while mastering React and Vue3 on the frontend. Outside of coding, I enjoy gaming, automation, and exploring innovative solutions.
 
 ## Stack
 - **Frontend:** React (low level), Vue3 (low level), HTML, CSS, JS (middle level)  
@@ -10,7 +10,7 @@ I'm 20 years old and passionate about software development. I enjoy solving chal
 - **Tools:** Git, VS Code
 
 ## My Goals
-I want to become a highly skilled React and Vue developer, eventually growing into a full-stack developer and working on exciting projects in top companies.
+My goal is to become an exceptional React and Vue developer, constantly improving my skills to grow into a full-stack developer capable of creating complex, high-quality applications. I aspire to contribute to innovative projects in top companies, collaborate with talented teams, and make a positive impact through technology. I’m driven, enthusiastic, and always ready to learn and take on new challenges.
 
 ## 📫 Connect with Me
 - Telegram: [@W3bDevelop](https://t.me/W3bDevelop)
@@ -20,7 +20,7 @@ I want to become a highly skilled React and Vue developer, eventually growing in
 
 ## О себе
 Привет! Меня зовут Матвей, известный как podmefom.  
-Мне 20 лет, и я увлечен разработкой. Люблю решать интересные задачи и создавать проекты, которые упрощают жизнь. Сейчас я активно изучаю Python и Node.js, а также фронтенд-фреймворки React и Vue3. В свободное время играю в игры, занимаюсь автоматизацией и изучаю новые технологии.
+Мне 20 лет, и я полностью погружен в разработку. Люблю решать сложные задачи, создавать полезные проекты и постоянно изучать новые технологии. Сейчас активно изучаю Python и Node.js для бэкенда и совершенствую навыки работы с React и Vue3 на фронтенде. В свободное время увлекаюсь играми, автоматизацией и поиском инновационных решений.
 
 ## Стек
 - **Фронтенд:** React (low level), Vue3 (low level), HTML, CSS, JS (middle level)  
@@ -28,7 +28,7 @@ I want to become a highly skilled React and Vue developer, eventually growing in
 - **Инструменты:** Git, VS Code
 
 ## Цели
-Я хочу стать очень крутым разработчиком на React и Vue, чтобы в дальнейшем стать фулстэк-разработчиком и участвовать в интересных проектах в крутых компаниях.
+Моя цель — стать выдающимся разработчиком на React и Vue, постоянно развивая навыки и становясь фулстэк-разработчиком, способным создавать сложные и качественные приложения. Я хочу участвовать в инновационных проектах в крутых компаниях, работать в талантливых командах и приносить пользу с помощью технологий. Я целеустремленный, энергичный и всегда готов к новым вызовам и обучению.
 
 ## 📫 Связаться со мной
 - Telegram: [@W3bDevelop](https://t.me/W3bDevelop)
